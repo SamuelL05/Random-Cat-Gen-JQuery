@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    flex-flow: column;
+}
+
+body button {
+    align-self: center;    
+}
